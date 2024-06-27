@@ -1,3 +1,4 @@
+```javascript
 const yakin-jawad = {
   education: "UnderGraduate",
   aspiring: ["Software Developer", "Data Scienctist", "Web Designer"],
@@ -21,3 +22,4 @@ const yakin-jawad = {
                "ui/ux theory", "writing", "web design"],
   availableForHire: true
 }
+```
