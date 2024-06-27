@@ -13,7 +13,7 @@ const yakin-jawad = {
       company : "Borouge",
       post : "IT Support Intern"
     }
-  ]
+  ],
   askMeAbout: ["artifical intelligence", "basketball",
                "comics/manga", "cloud computing", "culture",
                "datasets", "fashion", "food", "genAI",
