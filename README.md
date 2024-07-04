@@ -6,11 +6,11 @@ const yakin-jawad = {
   aspiring: ["Software Developer", "Data Scienctist", "Web Designer"],
   major: ["Python", "Java", "C", "Rust"],
   minor: ["Smalltalk", "Elixir", "Haskell"],
-  exploring: ["AWS", "MySQL", "JavaScript", "HTML", 
-              "CSS", "Docker", "React", "MatPlotLib",
-              "Flask", "Node.js",  "Seaborn"],
+  exploring: ["AWS", "PostegreSQL", "JavaScript", "HTML", 
+              "CSS", "Docker", "React", "Flask", "Node.js"],
   toolkit: ["Microsoft Visual Studio", "JupyterLab",
-            "Pandas", "BeautifulSoup", "Selenium"],
+            "Pandas", "BeautifulSoup", "Selenium",
+            "SQLite", "MatPlotLib", "Seaborn"],
   experiences: [
     {
       company : "Borouge",
