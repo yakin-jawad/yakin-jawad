@@ -18,7 +18,7 @@ const yakin-jawad = {
   ],
   askMeAbout: ["artifical intelligence", "basketball",
                "comics/manga", "cloud computing", "culture",
-               "datasets", "fashion", "food", "genAI",
+               "datasets", "fashion", "food", "genAI", "model building",
                "music", "programming", "retro tech", "rpgs",
                "ui/ux theory", "writing", "web design"],
   availableForHire: true
