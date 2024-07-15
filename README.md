@@ -6,7 +6,7 @@ const yakin-jawad = {
   aspiring: ["Software Developer", "Data Scienctist", "Web Designer"],
   major: ["Python", "Java", "C", "Rust"],
   minor: ["Smalltalk", "Elixir", "Haskell"],
-  exploring: ["PostegreSQL", "Microsoft Azure", "Machine Learning"],
+  exploring: ["PostegreSQL", "Tableau", "Data Analysis"],
   toolkit: ["Microsoft Visual Studio", "JupyterLab",
             "Pandas", "BeautifulSoup", "Selenium",
             "SQLite", "MatPlotLib", "Seaborn"],
