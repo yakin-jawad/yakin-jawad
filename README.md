@@ -6,10 +6,11 @@ const yakin-jawad = {
   aspiring: ["Software Developer", "Data Scienctist", "Web Designer"],
   major: ["Python", "Java", "C", "Rust"],
   minor: ["Smalltalk", "Elixir", "Haskell"],
-  exploring: ["PostegreSQL", "Tableau", "Data Analysis"],
+  exploring: ["Machine Learning", "Data Analysis"],
   toolkit: ["Microsoft Visual Studio", "JupyterLab",
             "Pandas", "BeautifulSoup", "Selenium",
-            "SQLite", "MatPlotLib", "Seaborn"],
+            "SQLite", "MatPlotLib", "Seaborn", "PostgreSQL",
+            "Tableau", "PowerShell"],
   experiences: [
     {
       company : "Borouge",
@@ -18,7 +19,7 @@ const yakin-jawad = {
   ],
   askMeAbout: ["artifical intelligence", "basketball",
                "comics/manga", "cloud computing", "culture",
-               "datasets", "fashion", "food", "genAI", "model building",
+               "datasets", "fashion", "food", "model building",
                "music", "programming", "retro tech", "rpgs",
                "ui/ux theory", "writing", "web design"],
   availableForHire: true
