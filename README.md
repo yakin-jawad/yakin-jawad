@@ -31,6 +31,4 @@ const yakin = {
     "basketball", "streetwear", "culture", "retro tech", "graphic design"
   ]
 };
-
-export default yakin;
 ```
