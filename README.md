@@ -13,7 +13,7 @@ const yakin = {
   languages: ["Python", "Java", "JavaScript", "C", "HTML", "CSS", "SQL",
               "Perl", "Rust", "Smalltalk", "Elixir", "Haskell"],
 
-  aspiringCareers: ["Machine Learning", "Data Analysis", "Backend Systems"],
+  aspiringCareers: ["Machine Learning", "Data Analysis", "Backend Systems", "Web Design"],
   
   toolkit: [
     "VS Code", "Linux", "Git", "JupyterLab", "Tableau", "Power BI", "Scikit-learn",
